@@ -1,0 +1,5 @@
+I have numerous potential project related to the book projects I'm working on. One is the use of mayavi for 3D visualization of solutions of PDEs, in particular for finite difference methods and wave equations. Attached is book.pdf, which contains some new pages for the 5th ed of the Primer Python book where mayavi is briefly explained, can you read the entire book.pdf and look for typos and unclear formulations?
+
+The other files are 2D wave equation solvers from INF5620, now utilizing scitools.easyviz for fast visualization via gnuplot, but could experiment with somewhat fancier visualizations via mayavi? We can start with the simple wave2D_u0.py, but then the project in INF5620 with variable coefficients and visualization of the coefficient *and* the solution should be addressed (wave2D.py needs extensions).
+
+3D viz requires a bit of experimentation so it's good if a book provides hints and guidelines to that
